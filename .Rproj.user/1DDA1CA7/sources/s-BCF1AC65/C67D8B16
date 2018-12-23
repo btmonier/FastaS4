@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545534206366.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "369326322",
+    "id" : "C67D8B16",
+    "lastKnownWriteTime" : 1545527198,
+    "last_content_update" : 1545527198,
+    "path" : "~/git_repos/FastaS4/.gitignore",
+    "project_path" : ".gitignore",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "gitignore"
+}
