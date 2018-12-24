@@ -1,0 +1,17 @@
+Package: FastaS4
+Title: Read FASTA files using S4 methods
+Version: 0.1.0
+Authors@R: person("Brandon", 
+    "Monier", 
+    email = "brandon.monier@gmail.com", 
+    role = c("aut", "cre"))
+Description: This package is an example of how to use S4 object methodology 
+    for simple tasks. The task we will be covering is how to read FASTA files
+    into a FASTA class object.
+Depends: R (>= 3.1.0) 
+License: GPL-3 | file LICENSE
+LazyData: true
+RoxygenNote: 6.1.1
+Encoding: UTF-8
+Imports:
+    methods
