@@ -48,9 +48,9 @@ summFASTA <- function(object) {
     
     xSP <- c(
         sprintf(paste0("%0-", max(nchar(seq_along(xID))), "s"), ""),
-        sprintf(paste0("%0-", max(nchar(xID)), "s"), "- - -"),
-        sprintf(paste0("%0-", max(nchar(xSQ)), "s"), "- - -"),
-        sprintf(paste0("%0-", max(nchar(nchar(object@seq))), "s"), "- - -")
+        sprintf(paste0("%0-", max(nchar(xID)), "s"), "..."),
+        sprintf(paste0("%0-", max(nchar(xSQ)), "s"), "..."),
+        sprintf(paste0("%0-", max(nchar(nchar(object@seq))), "s"), "...")
     )
     
     
